@@ -6,6 +6,9 @@
   <strong><a href="https://discord.gg/nocturna-team-1144047674614616135">Discord Server</a></strong>
 </p>
 
+> [!WARNING]
+> PowerMenuTS is currently in beta. Expect bugs and unfinished features.
+
 ### 
 ## Features
 * Power Options
